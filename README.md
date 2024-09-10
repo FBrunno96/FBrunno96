@@ -12,7 +12,7 @@
 <br> 
 
 
-<img align="center" alt="img" src="https://github.com/FBrunno96/FBrunno96/blob/main/coding.png?raw=true" width="250px" height="auto"/> <!-- Imagem de um cara programando -->
+<img align="right" alt="img" src="https://github.com/FBrunno96/FBrunno96/blob/main/coding.png?raw=true" width="250px" height="auto"/> <!-- Imagem de um cara programando -->
 
 
 🎓 Cursando Desenvolvimento Web. 
