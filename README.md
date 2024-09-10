@@ -86,15 +86,6 @@
 <br> 
 <div align="center"> 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FBrunno96/FBrunno96/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FBrunno96.FBrunno96&left_color=black&right_color=seagreen&left_text=Visitantes"  />
-
-##
 
   
   ### 📱 Vamos nos Conectar?
@@ -105,6 +96,12 @@
   </div>
 <br>
 
+<br clear="both">
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FBrunno96.FBrunno96&left_color=black&right_color=seagreen&left_text=Visitantes"  />
+
+##
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=130&color=27F740FF&section=footer"/>
