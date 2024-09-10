@@ -12,7 +12,7 @@
 <br> 
 
 
-<img align="right" alt="img" src="https://github.com/FBrunno96/FBrunno96/blob/main/coding.png?raw=true" width="250px" height="auto"/> <!-- Imagem de um cara programando -->
+<img alt="img" src="https://github.com/FBrunno96/FBrunno96/blob/main/coding.png?raw=true" width="250px" height="auto"/> <!-- Imagem de um cara programando -->
 
 
 🎓 Cursando Desenvolvimento Web. 
@@ -85,6 +85,17 @@
 ## 
 <br> 
 <div align="center"> 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FBrunno96/FBrunno96/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FBrunno96.FBrunno96&left_color=black&right_color=seagreen&left_text=Visitantes"  />
+
+##
+
   
   ### 📱 Vamos nos Conectar?
   <br> 
@@ -93,8 +104,6 @@
     <a href = "mailto:faissalbrunno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 <br>
-
-##
 
 
 
