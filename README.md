@@ -22,6 +22,7 @@
 🎨 No meu tempo livre, adoro explorar projetos criativos e novas tecnologias.
 
 🤝 Sempre aqui para ajudar! Confira alguns dos meus projetos:
+
 <br>
 <a href = "https://jogo-numero-secreto-orcin-xi.vercel.app/"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/numero-secreto.png?raw=true" target="_blank"></a>
 <a href = "https://curiosidades-one-piece.vercel.app/"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/curiosidades-one-piece.png?raw=true" target="_blank"></a>
