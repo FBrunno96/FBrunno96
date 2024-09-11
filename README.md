@@ -98,9 +98,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FBrunno96/FBrunno96/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FBrunno96.FBrunno96&left_color=black&right_color=seagreen&left_text=Visitantes"  />
 
