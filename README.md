@@ -98,10 +98,6 @@
 
 <br clear="both">
 
-![Snake animation] (https://github.com/FBrunno96/FBrunno96/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=FBrunno96&repo=FBrunno96&theme=react)] (https://github.com/FBrunno96/FBrunno96)
-
-##
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FBrunno96.FBrunno96&left_color=black&right_color=seagreen&left_text=Visitantes"  />
 
