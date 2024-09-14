@@ -36,7 +36,7 @@
 
 * 📚 **Fazer faculdade de Engenharia de Software:** Ampliar meu conhecimento e habilidades em tecnologia para impulsionar minha carreira.
 
-* 🧠 **Especializar-me em HTTPS, SEO e acessibilidade:** Aprender como otimizar sites para todos os públicos, garantindo que sejam totalmente adaptados e inclusivos para pessoas com deficiências, além de seguro.
+* 🧠 **Especializar-me em HTTPS, SEO e acessibilidade:** Aprender como otimizar sites para todos os públicos, garantindo que sejam totalmente adaptados e inclusivos para pessoas com deficiências, além de seguros.
 
 * 👩🏽‍💻 **Compartilhar minhas experiências:** Orientar e inspirar a comunidade de tecnologia com dicas práticas e insights valiosos.
 
