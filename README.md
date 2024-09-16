@@ -24,9 +24,10 @@
 🤝 Sempre aqui para ajudar! Confira alguns dos meus projetos:
 
 <br>
-<a href = "https://jogo-numero-secreto-orcin-xi.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/numero-secreto.png?raw=true"></a>
-<a href = "https://curiosidades-one-piece.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/curiosidades-one-piece.png?raw=true"></a>
-<a href = "https://grand-line-search.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/grand-line-search.png?raw=true"></a>
+<a href = "https://jogo-numero-secreto-orcin-xi.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/imagens/numero-secreto.png?raw=true"></a>
+<a href = "https://curiosidades-one-piece.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/imagens/curiosidades-one-piece.png?raw=true"></a>
+<a href = "https://grand-line-search.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/imagens/grand-line-search.png?raw=true"></a>
+<a href = "https://gerador-senha-black.vercel.app/" target="_blank"><img src="https://github.com/FBrunno96/FBrunno96/blob/main/imagens/gerador-senha.png?raw=true"></a>
 <br>
 
 ## 
